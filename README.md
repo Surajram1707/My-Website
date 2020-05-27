@@ -10,3 +10,5 @@ Steps to be followed:
 2.Then Unzip the file in your computer
 
 3.Then click on Shirdi Sai baba.html file to view my website
+
+Shirdi sai baba.html
